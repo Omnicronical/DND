@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "png-transparent-dungeons-dragons-pathfinder-roleplaying-game-d20-system-cleric-paladin-knight-superhero-elf-human.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "png-transparent-dungeons-dragons-pathfinder-roleplaying-game-d20-system-cleric-paladin-knight-superhero-elf-human-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "png-transparent-dungeons-dragons-pathfinder-roleplaying-game-d20-system-cleric-paladin-knight-superhero-elf-human-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "563-5630804_d-d-transparent-sorcerer-png-png-download-warlock.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "563-5630804_d-d-transparent-sorcerer-png-png-download-warlock-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "563-5630804_d-d-transparent-sorcerer-png-png-download-warlock-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
